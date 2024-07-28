@@ -1,2 +1,2 @@
 # TDConvs
-Code for Twin Deformable Point Convolutions for airborne laser scanning point cloud classification.
+Code for Twin Deformable Point Convolutions for Airborne Laser Scanning Point Cloud Classification.
